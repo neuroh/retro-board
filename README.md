@@ -41,7 +41,7 @@ It features the following technologies:
   - Twitter
   - GitHub
   - Slack
-  - Micrsofot
+  - Microsoft
 - [Giphy](https://giphy.com/) because adding a bit of fun to your retro can't hurt!
 - [React Beautiful DND](https://github.com/atlassian/react-beautiful-dnd) to allow re-ordering and grouping by drag-and-drop
 - [Jest](https://facebook.github.io/jest) for Unit Testing
