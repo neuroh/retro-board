@@ -1,7 +1,7 @@
 TARGET_ARCHS?=linux/amd64,linux/arm64,linux/arm/v7
 PACKAGE_VERSION?=local
 
-# Use this to test Docker builds manually
+# Use this to test Docker builds manuallys
 
 # Setup Buildx on x86 systems. Don't use this on M1 Macs.
 setup:
